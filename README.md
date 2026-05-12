@@ -56,4 +56,4 @@ https://github.com/zaryabshah099-afk/Data_Science_Project/tree/main/AQI_Project/
 
 Report File
 
-https://github.com/Seower/AQI-Data-Science-Project/tree/main/AQI-Data-Science-Project/report
+https://github.com/zaryabshah099-afk/Data_Science_Project/tree/main/AQI_Project/Report
